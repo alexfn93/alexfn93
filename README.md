@@ -11,7 +11,18 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alex-" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="Alex-" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+  <img align="center" alt="Alex-" height="30" widht="40" src=
+  <img align="center" alt="Alex-" height="30" widht="40" src=
+  <img align="center" alt="Alex-" height="30" widht="40" src=
+  <img align="center" alt="Alex-" height="30" widht="40" src=
+  <img align="center" alt="Alex-" height="30" widht="40" src=
+  <img align="center" alt="Alex-" height="30" widht="40" src=
+  <img align="center" alt="Alex-" height="30" widht="40" src=
+  <img align="center" alt="Alex-" height="30" widht="40" src=
+  <img align="center" alt="Alex-" height="30" widht="40" src=
+  <img align="center" alt="Alex-" height="30" widht="40" src=
+  <img align="center" alt="Alex-" height="30" widht="40" src=
     
     
 
