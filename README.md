@@ -27,7 +27,7 @@
   <img align="center" alt="alex-apacheTomcat" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" />
   <img align="center" alt="alex-sts" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="alex-.netCore" height="40" widht="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" />
-    
+</div>   
     
 
 
