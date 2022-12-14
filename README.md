@@ -11,20 +11,20 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="alex-bootstrap" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-  <img align="center" alt="alex-" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="alex-" height="70" widht="80" src=
-  <img align="center" alt="alex-" height="70" widht="80" src=
-  <img align="center" alt="alex-" height="70" widht="80" src=
-  <img align="center" alt="alex-" height="70" widht="80" src=
-  <img align="center" alt="alex-" height="70" widht="80" src=
-  <img align="center" alt="alex-" height="70" widht="80" src=
-  <img align="center" alt="alex-" height="70" widht="80" src=
-  <img align="center" alt="alex-" height="70" widht="80" src=
-  <img align="center" alt="alex-" height="70" widht="80" src=
-  <img align="center" alt="alex-" height="70" widht="80" src=
-  <img align="center" alt="alex-" height="70" widht="80" src=
-  <img align="center" alt="alex-" height="70" widht="80" src=
+  <img align="center" alt="alex-bootstrap" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img align="center" alt="alex-c#" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="alex-css" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="alex-git" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center" alt="alex-github" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="center" alt="alex-html" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="alex-java" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="alex-js" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="alex-mongodb" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="alex-mySql" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="alex-node.js" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="alex-react.js" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="alex-redux" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="alex-apacheTomcat" height="70" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" />
   <img align="center" alt="alex-" height="70" widht="80" src=
     
     
