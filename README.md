@@ -16,32 +16,58 @@
 - 🌱 Atualmente estou reforçando meus estudos em HTML, CSS, JavaScript e lógica de programação.
 - 💞️ Estou estudando no momento pelo freeCodeCamp.
 - 📫 Contate-me pelo e-mail: alexfn.dev.job@gmail.com
-  
+
+## Minhas redes sociais
+<div>
+  <a href="https://www.linkedin.com/in/alexfnunes" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"><a/>
+</div>
+
+<div>
+  <br><hr>
+</div>
+
+## Linguagens de programação 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="alex-js" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="alex-java" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="alex-c#" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+</div><br>
+
+
+## Bancos de dados
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="alex-mongodb" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="alex-mySql" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+</div><br> 
+
+## GitHub e Git
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="alex-github" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="center" alt="alex-git" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+</div><br>
+
+## Front-end
+
+<div style="display: inline_block"><br>
   <img align="center" alt="alex-html" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="alex-css" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="alex-bootstrap" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img align="center" alt="alex-git" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="alex-github" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img align="center" alt="alex-mongodb" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="alex-mySql" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="alex-node.js" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="alex-react.js" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+</div><br>  
+ 
+## Back-end
+<div style="display: inline_block"><br>
+  <img align="center" alt="alex-node.js" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="alex-redux" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="alex-apacheTomcat" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" />
   <img align="center" alt="alex-sts" height="40" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="alex-.netCore" height="40" widht="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" />
 </div>   
     
-  ##
-  
-<div>
-  <a href="https://www.linkedin.com/in/alexfnunes" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"><a/>
- 
-</div>
+
     
    
 
