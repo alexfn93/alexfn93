@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0202fe&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0202fe&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alex+Fernandes;Eu+sou+do+Rio+de+Janeiro+,+Brasil;Eu+sou+um+desenvolvedor+Full-Stack;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0202fe&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alex+Fernandes;Eu+sou+do+Rio+de+Janeiro+,+Brasil;Eu+sou+um+desenvolvedor+Full-Stack;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 ## Olá, sou Alex Fernandes
 
-Minha trajetória profissional começou como Administrador. Atualmente, formado em curso técnico de Desenvolvedor Full Stack e me graduando em Ciência da Computação, e, além da faculdade, faço cursos online para me aprofundar cada vez mais na minha área. 
+Minha trajetória profissional começou como Administrador, mas sempre tive um pezinho na tecnologia. Atualmente, formado em curso técnico de Desenvolvedor Full Stack e me graduando em Ciência da Computação, e, além da faculdade, faço cursos online para me aprofundar cada vez mais na minha área. 
 
 Sou uma pessoa curiosa e que gosta de resolver problemas. Aprender faz parte do meu dia a dia e desafios me mantêm motivado a sempre descobrir as melhores soluções.
 
